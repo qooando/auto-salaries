@@ -23,3 +23,18 @@ just resolve the captcha and the script will continue.
 After a bunch of log lines, an output ods file is created.
 If the script ends early, the file is created with all the
 lines collected so far.
+
+## Additional notes
+
+The main programming loop reload the main search page every time,
+indeed the main search page differs from internal pages and implement
+less antibot controls.
+
+Also the active waits are added to avoid data loss.
+
+## Improvements
+
+This is a toy project I programmed in ~2 hours from scratch for personal use, feel free to suggest improvements.
+
+
+
