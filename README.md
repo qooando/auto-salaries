@@ -5,8 +5,9 @@ A simple selenium bot to gather salaries from glassdoor .com varying country and
 
 - python3
 - python3 selenium libs
-- selenium driver
-- mozilla
+- selenium (https://www.selenium.dev/downloads/)
+- selenium gecko driver (https://github.com/mozilla/geckodriver/releases)
+- firefox
 
 ## Howto
 
