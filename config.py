@@ -26,9 +26,6 @@ jobModifiers = [
     "Java",
     "Backend",
     "Software",
-    "Automation",
-    "Robotics",
-    "Cybersecurity"
 ]
 
 jobSeniority = [
