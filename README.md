@@ -1,5 +1,5 @@
 # auto-salaries
-A simple selenium bot to gather salaries from glassdoor varying country and titles with output to ods file
+A simple selenium bot to gather salaries from glassdoor .com varying country and titles with output to ods file
 
 ## Dependencies
 
